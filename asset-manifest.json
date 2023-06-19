@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bmiw/static/css/main.8e4fc90f.css",
+    "main.js": "/bmiw/static/js/main.2c98fb31.js",
+    "static/media/gallery-03-1200x800-original.jpg": "/bmiw/static/media/gallery-03-1200x800-original.5fa02e6cbbba271770b2.jpg",
+    "static/media/gallery-05-1200x800-original.jpg": "/bmiw/static/media/gallery-05-1200x800-original.697bec48c0a25af639d3.jpg",
+    "static/media/gallery-02-1200x800-original.jpg": "/bmiw/static/media/gallery-02-1200x800-original.c1871def7948302e6082.jpg",
+    "static/media/github-mark_white.svg": "/bmiw/static/media/github-mark_white.dbb839884d9be561e75f876e7d2e77ac.svg",
+    "index.html": "/bmiw/index.html",
+    "main.8e4fc90f.css.map": "/bmiw/static/css/main.8e4fc90f.css.map",
+    "main.2c98fb31.js.map": "/bmiw/static/js/main.2c98fb31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4fc90f.css",
+    "static/js/main.2c98fb31.js"
+  ]
+}
