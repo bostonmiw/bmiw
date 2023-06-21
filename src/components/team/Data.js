@@ -8,7 +8,7 @@ const members = [
     },
     {
         title: 'Member 2',
-        desc: 'Mass General Hospital',
+        desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
         icon: <FaDesktop />
     },
     {
@@ -18,7 +18,7 @@ const members = [
     },
     {
         title: 'Member 4',
-        desc: 'Computer Science and Artificial Intelligence Laboratory',
+        desc: 'Massachusetts Institute of Technology',
         icon: <FaDesktop />
     }
 ];

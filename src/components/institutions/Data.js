@@ -7,18 +7,13 @@ const institutions = [
         icon: <FaDesktop />
     },
     {
-        title: 'MGH',
-        desc: 'Mass General Hospital',
-        icon: <FaDesktop />
-    },
-    {
         title: 'Martinos',
         desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
         icon: <FaDesktop />
     },
     {
-        title: 'CSAIL',
-        desc: 'Computer Science and Artificial Intelligence Laboratory',
+        title: 'MIT',
+        desc: 'Massachusetts Institute of Technology',
         icon: <FaDesktop />
     }
 ];
