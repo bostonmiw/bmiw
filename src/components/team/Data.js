@@ -2,23 +2,28 @@ import { FaDesktop } from 'react-icons/fa';
 
 const members = [
     {
-        title: 'Member 1',
-        desc: 'Brigham and Women\'s Hospital',
+        title: 'Jon Haitz Legarreta',
+        desc: 'BWH, MGB, HMS',
         icon: <FaDesktop />
     },
     {
-        title: 'Member 2',
-        desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
+        title: 'Kathleen Larson',
+        desc: 'Martinos, MGH, MGB, HMS',
         icon: <FaDesktop />
     },
     {
-        title: 'Member 3',
-        desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
+        title: 'Oula Puonti',
+        desc: 'Martinos, MGH, MGB, HMS',
         icon: <FaDesktop />
     },
     {
-        title: 'Member 4',
-        desc: 'Massachusetts Institute of Technology',
+        title: 'Benjamin Billot',
+        desc: 'MIT, CSAIL',
+        icon: <FaDesktop />
+    },
+    {
+        title: 'Neel Dey',
+        desc: 'MIT, CSAIL',
         icon: <FaDesktop />
     }
 ];
