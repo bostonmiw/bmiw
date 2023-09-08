@@ -18,7 +18,6 @@ const Schedule = () => {
                         title={item.title}
                         desc={item.desc}
                         src={item.src}
-                        github={item.github}
                         site={item.site}
                         institution={item.institution}
                     />
