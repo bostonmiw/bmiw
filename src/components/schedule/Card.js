@@ -50,6 +50,7 @@ const Card = (props) => {
                                     target="_blank"
                                     onMouseEnter={() => handleMouseEnter('Website')}
                                     onMouseLeave={handleMouseLeave}
+                                    rel="noreferrer"
                                 >
                                     <FaGlobe />
                                     {tooltipText === 'Website' && (
