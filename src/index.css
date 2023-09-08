@@ -52,3 +52,7 @@
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+th {
+  background-color: #daa520;
+}

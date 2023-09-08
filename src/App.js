@@ -3,7 +3,7 @@ import Navbar from './components/navbar/Navbar';
 import Banner from './components/banner/Banner';
 import Institutions from './components/institutions/Institutions';
 import Topics from './components/topics/Topics';
-import Schedule from './components/schedule/Schedule';
+import Program from './components/program/Program';
 import Venue from './components/venue/Venue';
 import Team from './components/team/Team';
 import Footer from './components/footer/Footer';
@@ -16,7 +16,7 @@ const App = () => {
         <Banner />
         <Institutions />
         <Topics />
-        <Schedule />
+        <Program />
         <Venue />
         <Team />
       </div>
