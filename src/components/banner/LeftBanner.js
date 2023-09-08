@@ -30,6 +30,9 @@ const LeftBanner = () => {
                 <p className="text-base font-bodyFont leading-6 tracking-wide text-center lgl:text-left">
                     A workshop bringing together the medical imaging community across major institutions in Boston.
                 </p>
+                <p className="text-base font-bodyFont font-bold leading-6 tracking-wide text-center lgl:text-left">
+                    October 27, 2023
+                </p>
             </div>
             <Media />
         </div>
