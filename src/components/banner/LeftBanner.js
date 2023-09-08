@@ -33,6 +33,9 @@ const LeftBanner = () => {
                 <p className="text-base font-bodyFont font-bold leading-6 tracking-wide text-center lgl:text-left">
                     4th edition
                 </p>
+                <p className="text-base font-bodyFont font-bold leading-6 tracking-wide text-center lgl:text-left">
+                    October 27, 2023
+                </p>
             </div>
             <Media />
         </div>
