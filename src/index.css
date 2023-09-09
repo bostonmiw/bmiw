@@ -56,3 +56,14 @@
 th {
   background-color: #daa520;
 }
+
+.social {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-position: 50% 50%;
+  background-size: auto;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
