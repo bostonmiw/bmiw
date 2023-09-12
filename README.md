@@ -20,7 +20,7 @@ Once the feature at issue has been verified, push the code to a new branch
 following the regular `git` collaborative model so that it can be merged into
 `main`.
 
-Check out the `gh-pages` branch and deploy website to GitHub pages using:
+Once the feature merged into `main`, deploy the website to GitHub pages using:
 
 ```console
 $ npm run deploy -- -m "Deploy React app to GitHub Pages"
