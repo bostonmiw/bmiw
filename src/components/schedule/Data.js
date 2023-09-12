@@ -1,31 +1,19 @@
-import { Speaker1, Speaker2 } from '../../assets/images';
-
 const schedule = [
     {
+        time: '12:00',
         title: 'Speaker 1',
         desc: 'Name of talk 1',
-        src: Speaker1,
-        site: 'https://www.brighamandwomens.org/',
-        github: 'https://github.com',
-        institution: 'Department of Radiology, BWH'
     },
     {
+        time: '12:30',
         title: 'Speaker 2',
         desc: 'Name of talk 2',
-        src: Speaker2,
-        site: 'https://www.brighamandwomens.org/',
-        github: 'https://github.com',
-        institution: 'Department of Radiology, BWH'
     },
     {
+        time: '13:00',
         title: 'Speaker 3',
         desc: 'Name of talk 3',
-        src: Speaker1,
-        site: 'https://www.brighamandwomens.org/',
-        github: 'https://github.com',
-        institution: 'Department of Radiology, BWH'
     }
 ];
 
-
-export default { schedule };
+export default schedule;

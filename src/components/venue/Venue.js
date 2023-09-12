@@ -1,5 +1,4 @@
 import React from 'react'
-import { MdLocationPin } from 'react-icons/md';
 import Title from '../layouts/Title';
 
 const Venue = () => {
@@ -10,9 +9,6 @@ const Venue = () => {
             </div>
             <div className='w-full'>
                 <div className="w-full h-auto flex flex-col lgl:flex-row justify-between gap-6 lgl:gap-0">
-                    <span className='text-designColor'>
-                       <MdLocationPin />
-                    </span>
                     <span className='text-base text-gray-400 tracking-wide'>
                         Exact location TBD
                         <br/>
