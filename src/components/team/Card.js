@@ -13,7 +13,7 @@ const Card = (props) => {
                         />
                     </div>
                     <div className="flex flex-col gap-6">
-                        <h2 className="text-xl md:text-2xl font-titleFont font-bold text-gray-300">
+                        <h2 className="text-md md:text-2md font-titleFont font-bold text-gray-300">
                             {props.title}
                         </h2>
                         <p className='base'>
