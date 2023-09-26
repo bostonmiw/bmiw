@@ -2,6 +2,7 @@ import React from 'react';
 import Title from '../layouts/Title';
 import Card from './Card';
 import speakers from './Data';
+import schedule from '../schedule/Data';
 
 const Speakers = () => {
     return (
@@ -14,7 +15,7 @@ const Speakers = () => {
                     <Card
                         key={index}
                         title={item.title}
-                        desc={item.desc}
+                        desc={schedule.find(x => x.title === item.title).desc}
                         src={item.src}
                         site={item.site}
                         institution={item.institution}
