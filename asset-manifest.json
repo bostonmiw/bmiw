@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/bmiw/static/css/main.c84bee90.css",
-    "main.js": "/bmiw/static/js/main.21a5f656.js",
-    "static/media/gallery-03-1200x800-original.jpg": "/bmiw/static/media/gallery-03-1200x800-original.5fa02e6cbbba271770b2.jpg",
-    "static/media/gallery-05-1200x800-original.jpg": "/bmiw/static/media/gallery-05-1200x800-original.697bec48c0a25af639d3.jpg",
-    "static/media/gallery-02-1200x800-original.jpg": "/bmiw/static/media/gallery-02-1200x800-original.c1871def7948302e6082.jpg",
+    "main.css": "/bmiw/static/css/main.ad3eb0be.css",
+    "main.js": "/bmiw/static/js/main.95cc117b.js",
+    "static/media/boston_dsc0891_crop_jhlegarreta.jpg": "/bmiw/static/media/boston_dsc0891_crop_jhlegarreta.da7b137da959185aeafd.jpg",
+    "static/media/gjacobs.jpg": "/bmiw/static/media/gjacobs.91368740639353e359b3.jpg",
+    "static/media/jhlegarreta.jpg": "/bmiw/static/media/jhlegarreta.c5350d6364bb3a6d967c.jpg",
+    "static/media/bbillot.jpg": "/bmiw/static/media/bbillot.1ac76b6019b3508322d9.jpg",
+    "static/media/pwang.jpg": "/bmiw/static/media/pwang.b2fb698f8d226d35478d.jpg",
+    "static/media/sabbasirad.jpg": "/bmiw/static/media/sabbasirad.b85bcff70f9ebcb0634a.jpg",
+    "static/media/slariviere.jpg": "/bmiw/static/media/slariviere.7d3503c1e40ecdae0a63.jpg",
+    "static/media/klarson.jpg": "/bmiw/static/media/klarson.2ee69f5a29dda7f951ef.jpg",
+    "static/media/opuonti.jpg": "/bmiw/static/media/opuonti.3664a64908bb84473662.jpg",
+    "static/media/xzeng.jpg": "/bmiw/static/media/xzeng.bb451fa41844c9ddbb45.jpg",
+    "static/media/ndey.jpg": "/bmiw/static/media/ndey.fda259d185b50523576f.jpg",
+    "static/media/nkarani.jpg": "/bmiw/static/media/nkarani.41137090e1ea9f67e6d0.jpg",
     "static/media/logo.svg": "/bmiw/static/media/logo.73cb7a23cb56c29cf9b3a4fdcba6b42d.svg",
     "index.html": "/bmiw/index.html",
-    "main.c84bee90.css.map": "/bmiw/static/css/main.c84bee90.css.map",
-    "main.21a5f656.js.map": "/bmiw/static/js/main.21a5f656.js.map"
+    "main.ad3eb0be.css.map": "/bmiw/static/css/main.ad3eb0be.css.map",
+    "main.95cc117b.js.map": "/bmiw/static/js/main.95cc117b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c84bee90.css",
-    "static/js/main.21a5f656.js"
+    "static/css/main.ad3eb0be.css",
+    "static/js/main.95cc117b.js"
   ]
 }
