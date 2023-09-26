@@ -53,6 +53,11 @@
   display: none;
 }
 
+td:nth-child(2) {
+  color: #9ca3af;
+  font-weight: bold;
+}
+
 th {
   background-color: #daa520;
 }

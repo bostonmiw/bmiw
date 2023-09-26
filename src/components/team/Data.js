@@ -1,25 +1,30 @@
-import { FaDesktop } from 'react-icons/fa';
+import { Bbillot, Jhlegarreta, Klarson, Ndey, Opuonti } from "../../assets/images";
 
 const members = [
     {
-        title: 'Member 1',
-        desc: 'Brigham and Women\'s Hospital',
-        icon: <FaDesktop />
+        title: 'Jon Haitz Legarreta',
+        desc: 'BWH, MGB, HMS',
+        src: Jhlegarreta
     },
     {
-        title: 'Member 2',
-        desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
-        icon: <FaDesktop />
+        title: 'Kathleen Larson',
+        desc: 'Martinos, MGH, MGB, HMS',
+        src: Klarson
     },
     {
-        title: 'Member 3',
-        desc: 'Athinoula A. Martinos Center for Biomedical Imaging',
-        icon: <FaDesktop />
+        title: 'Oula Puonti',
+        desc: 'Martinos, MGH, MGB, HMS',
+        src: Opuonti
     },
     {
-        title: 'Member 4',
-        desc: 'Massachusetts Institute of Technology',
-        icon: <FaDesktop />
+        title: 'Benjamin Billot',
+        desc: 'MIT, CSAIL',
+        src: Bbillot
+    },
+    {
+        title: 'Neel Dey',
+        desc: 'MIT, CSAIL',
+        src: Ndey
     }
 ];
 
