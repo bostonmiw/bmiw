@@ -7,7 +7,7 @@ const RightBanner = () => {
       <img
         className="w-[300px] h-[400px] lgl:w-[500px] lgl:h-[680px] z-10"
         src={BannerImg}
-        alt="gallery-03-1200x800-original"
+        alt="Longfellow Bridge and Back Bay, Boston"
       />
       <div className="absolute bottom-0 w-[350px] h-[400px] lgl:w-[500px] lgl:h-[680px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex justify-center items-center"></div>
     </div>

@@ -1,5 +1,5 @@
 import Logo from './images/logo.svg';
-import BannerImg from './images/gallery-03-1200x800-original.jpg';
+import BannerImg from './images/banner/boston_dsc0891_crop_jhlegarreta.jpg';
 import Bbillot from './images/team/bbillot.jpg';
 import Gjacobs from './images/speakers/gjacobs.jpg';
 import Jhlegarreta from './images/team/jhlegarreta.jpg';
