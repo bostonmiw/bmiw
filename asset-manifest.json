@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bmiw/static/css/main.f6eb5c39.css",
-    "main.js": "/bmiw/static/js/main.28ca5cf4.js",
+    "main.js": "/bmiw/static/js/main.e8c0891f.js",
     "static/media/boston_dsc0891_crop_jhlegarreta.jpg": "/bmiw/static/media/boston_dsc0891_crop_jhlegarreta.da7b137da959185aeafd.jpg",
     "static/media/gjacobs.jpg": "/bmiw/static/media/gjacobs.91368740639353e359b3.jpg",
     "static/media/jhlegarreta.jpg": "/bmiw/static/media/jhlegarreta.c5350d6364bb3a6d967c.jpg",
@@ -17,10 +17,10 @@
     "static/media/logo.svg": "/bmiw/static/media/logo.73cb7a23cb56c29cf9b3a4fdcba6b42d.svg",
     "index.html": "/bmiw/index.html",
     "main.f6eb5c39.css.map": "/bmiw/static/css/main.f6eb5c39.css.map",
-    "main.28ca5cf4.js.map": "/bmiw/static/js/main.28ca5cf4.js.map"
+    "main.e8c0891f.js.map": "/bmiw/static/js/main.e8c0891f.js.map"
   },
   "entrypoints": [
     "static/css/main.f6eb5c39.css",
-    "static/js/main.28ca5cf4.js"
+    "static/js/main.e8c0891f.js"
   ]
 }
