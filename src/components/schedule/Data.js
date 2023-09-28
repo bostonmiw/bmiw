@@ -7,7 +7,7 @@ const schedule = [
     {
         time: '13:30',
         title: 'Grace Jacobs',
-        desc: 'Deviations in white matter microstructure and freewater vary across individuals at clinical high risk for psychosis',
+        desc: 'Deviations in white matter microstructure and freewater across individuals at clinical high risk for psychosis',
     },
     {
         time: '14:00',
